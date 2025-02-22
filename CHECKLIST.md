@@ -1,4 +1,4 @@
-- You render a movie item component that displays movie info from "Harry Potter and the Philosopher's Stone"
-- The release date is displayed as 2001-11-04
-- The budget is displayed as "$ 125 million"
-- The duration is displayed as "152 min"
+- You render 12 movie item components on the screen.
+- The first 9 movies are "Harry Potter" movies and the last three are "Fantastic Beasts" movies.
+- "The last movie is titled \"Fantastic Beasts: The Secrets of Dumbledore\""
+- "The last movie has the following details displayed: \"Release date: 2022-04-08  Budget: $ 200 million  Duration: 142 min\""
